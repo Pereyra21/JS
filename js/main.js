@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Tauro y el Triceratops es su apego a la tierra y a la naturaleza. Tauro es un signo de tierra, lo que sugiere una conexión profunda con el mundo material y un amor por la belleza natural. Del mismo modo, el Triceratops habitaba en la tierra y dependía de su entorno natural para sobrevivir.
             En resumen, el Triceratops podría ser considerado como el dinosaurio que representa a Tauro debido a su resistencia, estabilidad, conexión con la tierra y su naturaleza tranquila pero poderosa.
             `;
-            imagenURL = "../imgs/triceratops.jpg"; //
+            imagenURL = "./imgs/triceratops.jpg"; //
 
         // GÉMINIS ---------------------------------------------------------------
         } else if (signoSeleccionado === "Géminis") {
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Géminis y el Archaeopteryx es su naturaleza juguetona y social. Géminis es conocido por ser sociable y comunicativo, y disfruta de la interacción con los demás. Del mismo modo, el Archaeopteryx probablemente se relacionaba con otros de su especie y participaba en comportamientos sociales, como la caza en grupo o el cortejo.
             En resumen, el Archaeopteryx podría ser considerado como el dinosaurio que representa a Géminis debido a su adaptabilidad, agilidad mental, naturaleza social y su conexión con el elemento aire.
             `;
-            imagenURL = "../imgs/archaeopteryx.jpg";
+            imagenURL = "./imgs/archaeopteryx.jpg";
 
         //CÁNCER -----------------------------------------------------------------
         } else if (signoSeleccionado === "Cáncer") {
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Cáncer y el Maiasaura es su naturaleza nostálgica y su apego a las tradiciones. Cáncer tiende a valorar la seguridad emocional y busca la estabilidad en su vida, al igual que el Maiasaura, que habitaba en manadas y dependía del apoyo mutuo para sobrevivir.
             En resumen, el Maiasaura podría ser considerado como el dinosaurio que representa a Cáncer debido a su naturaleza maternal y protectora, su sensibilidad emocional y su apego a la familia y al hogar.
             `;
-            imagenURL = "../imgs/maiasaura.jpg";
+            imagenURL = "./imgs/maiasaura.jpg";
 
         //LEO --------------------------------------------------------------------
         } else if (signoSeleccionado === "Leo") {
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Leo y el Tyrannosaurus rex es su necesidad de atención y reconocimiento. Los leoninos suelen buscar el reconocimiento y el aplauso, al igual que el Tyrannosaurus rex que, como uno de los mayores depredadores de su época, dominaba su entorno y buscaba la admiración de los demás dinosaurios.
             En resumen, el Tyrannosaurus rex podría ser considerado como el dinosaurio que representa a Leo debido a su dominio, su energía ardiente y su búsqueda constante de atención y reconocimiento.
             `;
-            imagenURL = "../imgs/tyrannosaurus.jpg";
+            imagenURL = "./imgs/tyrannosaurus.jpg";
 
         //VIRGO ------------------------------------------------------------------
         } else if (signoSeleccionado === "Virgo") {
@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Virgo y el Microraptor es su naturaleza reservada y cautelosa. Virgo tiende a ser cuidadoso y precavido en sus acciones, al igual que el Microraptor que, a pesar de su tamaño pequeño, actuaba con precaución para evitar peligros y maximizar sus posibilidades de supervivencia.
             En resumen, el Microraptor podría ser considerado como el dinosaurio que representa a Virgo debido a su precisión, meticulosidad, conexión con la tierra y su naturaleza reservada y cautelosa.
             `;
-            imagenURL = "../imgs/microraptor.jpg";
+            imagenURL = "./imgs/microraptor.jpg";
 
         //LIBRA ------------------------------------------------------------------
         } else if (signoSeleccionado === "Libra") {
@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Libra y el Diplodocus es su naturaleza sociable y cooperativa. Libra tiende a valorar las relaciones armoniosas y busca la colaboración y el consenso en sus interacciones sociales, al igual que el Diplodocus que, al vivir en manadas, dependía del apoyo mutuo y la cooperación para sobrevivir.
             En resumen, el Diplodocus podría ser considerado como el dinosaurio que representa a Libra debido a su naturaleza pacífica, su elegancia y gracia, su aprecio por la belleza y su enfoque en las relaciones armoniosas y cooperativas.
             `;
-            imagenURL = "../imgs/diplodocus.jpg";
+            imagenURL = "./imgs/diplodocus.jpg";
 
         //ESCORPIO ---------------------------------------------------------------
         } else if (signoSeleccionado === "Escorpio") {
@@ -88,14 +88,14 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Escorpio y el Dilophosaurus es su habilidad para adaptarse y transformarse. Escorpio es conocido por su capacidad para renacer de las cenizas y transformarse a través de sus experiencias, al igual que el Dilophosaurus que, con su agilidad y astucia, se adaptaba a diferentes entornos y situaciones para sobrevivir.
             En resumen, el Dilophosaurus podría ser considerado como el dinosaurio que representa a Escorpio debido a su naturaleza misteriosa, su intensidad emocional, su astucia y su capacidad para adaptarse y transformarse.
             `;
-            imagenURL = "../imgs/dilophosaurus.jpg";
+            imagenURL = "./imgs/dilophosaurus.jpg";
 
         //OFIUCO -----------------------------------------------------------------
         } else if (signoSeleccionado === "Ofiuco") {
             texto = `
             No tengo ni la menor idea de que es eso jaja...
             `;
-            imagenURL = "../imgs/ofiuco.jpg";
+            imagenURL = "./imgs/ofiuco.jpg";
 
         //SAGITARIO --------------------------------------------------------------
         } else if (signoSeleccionado === "Sagitario") {
@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Sagitario y el Gallimimus es su naturaleza sociable y extrovertida. Sagitario tiende a ser amistoso y sociable, disfrutando de la compañía de otros y buscando la aventura en conjunto, al igual que el Gallimimus que, al vivir en manadas, se beneficiaba de la interacción con sus congéneres y la colaboración en la búsqueda de alimento.
             En resumen, el Gallimimus podría ser considerado como el dinosaurio que representa a Sagitario debido a su naturaleza aventurera, su movilidad rápida, su energía optimista y su sociabilidad.
             `;
-            imagenURL = "../imgs/gallimimus.jpg";
+            imagenURL = "./imgs/gallimimus.jpg";
 
         //CAPRICORNIO ------------------------------------------------------------
         } else if (signoSeleccionado === "Capricornio") {
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Capricornio y el Ankylosaurus es su enfoque en la seguridad y la estabilidad. Capricornio tiende a valorar la seguridad material y la estabilidad en su vida, al igual que el Ankylosaurus que, con su armadura protectora y su estilo de vida tranquilo, busca protegerse de los peligros y mantener un ambiente seguro a su alrededor.
             En resumen, el Ankylosaurus podría ser considerado como el dinosaurio que representa a Capricornio debido a su naturaleza perseverante, su resistencia, su conexión con la tierra y su enfoque en la seguridad y la estabilidad.
             `;
-            imagenURL = "../imgs/ankylosaurus.jpg";
+            imagenURL = "./imgs/ankylosaurus.jpg";
 
         //ACUARIO ----------------------------------------------------------------
         } else if (signoSeleccionado === "Acuario") {
@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Acuario y el Parasaurolophus es su enfoque en la comunidad y la colaboración. Acuario tiende a valorar la igualdad y la solidaridad entre las personas, al igual que el Parasaurolophus que, al vivir en manadas y depender del apoyo mutuo, muestra una conexión profunda con la comunidad y la cooperación.
             En resumen, el Parasaurolophus podría ser considerado como el dinosaurio que representa a Acuario debido a su singularidad, su mentalidad innovadora, su enfoque en la comunidad y su disposición para explorar lo nuevo y lo diferente.
             `;
-            imagenURL = "../imgs/parasaurolophus.jpg";
+            imagenURL = "./imgs/parasaurolophus.jpg";
 
         //PISCIS -----------------------------------------------------------------
         } else if (signoSeleccionado === "Piscis") {
@@ -135,7 +135,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Piscis y el Elasmosaurus es su naturaleza soñadora y espiritual. Piscis tiende a ser imaginativo y visionario, buscando significado más allá de lo tangible, al igual que el Elasmosaurus que, con su estilo de vida tranquilo en las profundidades del océano, parece estar en armonía con el mundo espiritual y la naturaleza.
             En resumen, el Elasmosaurus podría ser considerado como el dinosaurio que representa a Piscis debido a su naturaleza tranquila, su sensibilidad emocional, su conexión espiritual y su capacidad para fluir con las corrientes de la vida.
             `;
-            imagenURL = "../imgs/elasmosaurus.jpg";
+            imagenURL = "./imgs/elasmosaurus.jpg";
         }
 
         contenido.innerHTML = `<p>${texto}</p><img src="${imagenURL}" alt="${signoSeleccionado}">`;
