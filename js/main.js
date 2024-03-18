@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
             Otra similitud entre Aries y el Velociraptor es su naturaleza competitiva y su deseo de liderar. Aries tiende a ser un líder natural, siempre buscando estar a la cabeza y destacar entre la multitud, al igual que el Velociraptor que, como depredador, buscaba dominar en su ecosistema y liderar en la caza.
             En resumen, el Velociraptor podría ser considerado como el dinosaurio que representa a Aries debido a su agilidad, determinación, energía dinámica y su naturaleza competitiva y líder.
             `;
-            imagenURL = "../imgs/velociraptor.jpg";
+            imagenURL = "./imgs/velociraptor.jpg";
 
         // TAURO -----------------------------------------------------------------
         } else if (signoSeleccionado === "Tauro") {
